@@ -3,6 +3,8 @@
 
 This is my very first file in Github!!!!
 
-Hello Github!!
+Hello Git!!
 
-Sincerely, Muhammadyunus
+Sincerely,
+Muhammad Yunus
+The Half-Blood Teacher
